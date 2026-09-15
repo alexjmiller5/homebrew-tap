@@ -1,6 +1,6 @@
 cask "offline-shazam" do
-  version "0.1.0"
-  sha256 "e2e40722e0d8d7db588b182799e4f12495980a908e60ca7f312e413df058c1dc"
+  version "0.1.1"
+  sha256 "b10e2315637a9a6178f1436427c75df34448966a5fd3ee40956f2486b707085d"
 
   url "https://github.com/alexjmiller5/offline-shazam/releases/download/v#{version}/OfflineShazam-v#{version}.zip"
   name "OfflineShazam"
