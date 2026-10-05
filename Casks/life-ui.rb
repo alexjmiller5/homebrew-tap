@@ -1,6 +1,6 @@
 cask "life-ui" do
-  version "0.1.0"
-  sha256 "1883b99c4e90b7140afb2f8b786731c21791032e2c556ee374a11cb760e71707"
+  version "0.1.1"
+  sha256 "5f42cbb81f9b500e6c964280c5734db9a81360a0ae396317fbd4d924ec1f7c4a"
 
   url "https://github.com/alexjmiller5/life-ui/releases/download/v#{version}/LifeUI-v#{version}.zip"
   name "Life UI"
