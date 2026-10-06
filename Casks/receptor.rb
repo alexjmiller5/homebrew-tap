@@ -1,6 +1,6 @@
 cask "receptor" do
-  version "2.0.2"
-  sha256 "16a6c70eaec7a1ace828506ea251e69167502b0e1c8541c12108a405d571bf24"
+  version "2.0.3"
+  sha256 "af2412f57a7f14de886487d672ab0faf697b186efc8f385044b68b0c0746daf5"
 
   url "https://github.com/alexjmiller5/receptor/releases/download/v#{version}/Receptor-v#{version}.zip"
   name "Receptor"
