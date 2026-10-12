@@ -1,6 +1,6 @@
 cask "cochlea" do
-  version "0.7.0"
-  sha256 "6cd1c928e323cf9b84f9cc7a72bab0f59055ff24201778cc543a371d7a0fe815"
+  version "0.8.0"
+  sha256 "8ef5623c3773af6d34e06c25a9e3da45fb5c69a21d3319b1ef0f81a3070f95d1"
 
   url "https://github.com/alexjmiller5/cochlea/releases/download/v#{version}/Cochlea-v#{version}.zip"
   name "Cochlea"
