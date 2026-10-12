@@ -1,6 +1,6 @@
 cask "media-center" do
-  version "0.1.1"
-  sha256 "0f8d73f78af3e4850126f6ea5d0d83a465af52b14d6600f052cb5bda501c8f07"
+  version "0.1.2"
+  sha256 "11aaeca33568fabe11e089b64230f86c7afa7c551e93853e3350b2d5720c7c72"
 
   url "https://github.com/alexjmiller5/media-center/releases/download/v#{version}/MediaCenter-v#{version}.zip"
   name "Media Center"
